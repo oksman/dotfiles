@@ -178,3 +178,4 @@ bindsym $mod+d exec rofi -show run -lines 3 -eh 2 -width 100 -padding 0 -opacity
 exec_always --no-startup-id feh --bg-fill /home/nelisilma/pics/mp.jpg
 exec_always --no-startup-id compton
 exec --no-startup-id nm-applet
+exec --no-startup-id volti

@@ -173,7 +173,7 @@ bar {
 	position top
 }
 
-bindsym $mod+d exec rofi -show run -opacity "85" -font "System San Francisco Display 16"
+bindsym $mod+d exec rofi -show drun -opacity "85" -font "System San Francisco Display 16"
 
 exec_always --no-startup-id feh --bg-fill /home/nelisilma/pics/mp.jpg
 exec_always --no-startup-id compton
